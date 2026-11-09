@@ -34,13 +34,22 @@ Establish an evidence-based view of cybersecurity maturity and deliver a priorit
 - Risk-based prioritization
 - Remediation roadmapping
 
-<!--
-Uncomment after adding sanitized files to /docs:
 
 ## Deliverables
 
-See [`/docs`](docs/) for sanitized samples from this project.
--->
+**Framework Mapping and Compliance Report**
+
+<img width="1428" height="594" alt="Control Mapping Matrix" src="https://github.com/user-attachments/assets/79056c1a-5d7a-40e3-830b-6827a6e95bb1" />
+
+<img width="818" height="876" alt="Control Mapping Matrix 2" src="https://github.com/user-attachments/assets/0e798dd3-64b4-4d65-a063-130bf9db3870" />
+
+<img width="828" height="882" alt="Control Mapping Matrix 3" src="https://github.com/user-attachments/assets/d0f0917e-2aa4-44e6-801d-96e2d6c2f269" />
+
+<img width="820" height="880" alt="Control Mapping Matrix 4" src="https://github.com/user-attachments/assets/f94f74f6-e6d3-4e45-840e-6bd22670af5a" />
+
+
+
+
 
 
 
